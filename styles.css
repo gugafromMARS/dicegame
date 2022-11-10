@@ -1,0 +1,110 @@
+body {
+    background-color: white;
+}
+
+img {
+    width: 80%;
+}
+
+hr {
+    border-style: none;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 10rem;
+    color: black;
+}
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    font-size: 3rem;
+    color: black;
+}
+
+h3 {
+    font-family: 'Anton', sans-serif;
+    font-size: 3rem;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: #FEBE8C;
+}
+
+a:hover {
+    color: black;
+}
+
+footer {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.home-txt {
+    font-family: 'Anton', sans-serif;
+    font-size: 1rem;
+}
+
+/* CONTAINERS  */
+
+.container-main {
+    width: 70%;
+    margin: auto;
+}
+
+.container {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    padding-top: 200px;
+}
+
+.container-contacts {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    padding-top: 200px;
+}
+
+.container-contacts p {
+    margin-bottom: 2rem;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+.refresh {
+    padding-top: 20px;
+    font-family: 'Poor Story', cursive;
+    font-size: 1.5rem;
+}
+.game-txt {
+    padding-top: 50px;
+    font-family: 'Poor Story', cursive;
+    font-size: 3rem;
+}
+
+/* NAVBAR */
+
+
+.nav-txt {
+    font-family: 'Anton', sans-serif;
+    font-size: 1.2rem;
+}
+
+
+/* CONTACTS */
+
+.contact-box {
+    text-align: center;
+    width: 50%;
+    padding: 7% 7%;
+}
+
+label {
+    padding-bottom: 30px;
+}
